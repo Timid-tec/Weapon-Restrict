@@ -1,5 +1,6 @@
-# Disable-Radar
-A source mod plugin simply made to remove the radar on the top right section in game.
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=21&color=F7E7E5&background=F8000000&lines=Weapon+Restrict&center=true&width=500&height=50"></a>
+   </p>
 
 ## Game Supported
 - CS:GO
